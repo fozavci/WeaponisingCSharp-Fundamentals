@@ -2,10 +2,10 @@
 
 ## Information
 Author: Fatih Ozavci (https://linkedin.com/in/fozavci) <br>
-Version: 1.0
+Version: 1.0 <br>
 Events: AusCERT 2021, Interbank Red Team Forums in Australia, Internal Teams <br> <br>
 
-This content will be updated in time whenever presented in conferences or events. However, the content won't expand to cover the advanced topics referred in the last part of the training. There will be also a Weaponising C# - Advanced Practices training to be released in future events for this improvent.
+This content will be updated in time whenever presented in conferences or events. However, the content won't expand to cover the advanced topics referred in the last part of the training. There will be also a Weaponising C# - Advanced Practices training to be released in future events for this improvment.
 
 ## Weaponising C# for Red and Purple Teaming
 
