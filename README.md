@@ -1,4 +1,4 @@
-# Weaponising C# - Fundamentals Training Content
+# Weaponising C# - Fundamentals Training 
 
 ## Information
 Author: Fatih Ozavci (https://linkedin.com/in/fozavci) <br>
