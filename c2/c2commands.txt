@@ -1,0 +1,3 @@
+register
+run whoami
+run ipconfig
